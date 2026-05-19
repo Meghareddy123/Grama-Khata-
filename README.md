@@ -1,6 +1,6 @@
 # 📒 Grama-Khata — Digital Village Ledger
 
-**Student:** Zoya Muskaan | **USN:** 1GC22CS153
+**Student:** Megha M A | **USN:** 1MP22AI027
 
 ---
 
